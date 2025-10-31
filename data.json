@@ -1,0 +1,669 @@
+{
+  "病例基本": [
+    {
+      "label": "過去病史 Past history",
+      "text": "1. History of major systemic disease: denied\n   DM (-), HTN (-), Heart disease (-), Lung disease (-)\n   Liver (-), Renal (-), Peptic ulcer (-)\n2. Previous admission and surgery (-)"
+    },
+    {
+      "label": "理學檢查 Physical examination",
+      "text": "<Physical examination>\nAppearance: ill-looking\nViatl sign: BT ℃, HR /min, RR /min, BP  mmHg \nBody height:  CM, Body weight:  KG\nChest: Symmetric expansion, Breath sound: clear\nHeart: Regular heart beat, no murmur\nAbdomen:\nInspection: soft & protruded\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable \nBowel sound: normal active\nExtremity: free movable, except left hip\n           No obvious foot edema"
+    },
+    {
+      "label": "家族病史 Family history",
+      "text": "Non-contributive"
+    },
+    {
+      "label": "系統性回顧 Review of system",
+      "text": "1. Systemic: Fever(-), Weight loss(-), Fatigue(-), Appetite change(-), Dizziness(-), Night sweats(-)\n2. Skin: Petechiae(-), Purpura(-), Rash(-), Itching(-)\n3. HEENT: Vision changes(-), Strabismus(-), Eye pain(-), Ear pain(-), Otorrhea(-), Hearing loss(-), Tinnitus(-), Vertigo(-)\n4. Cardiovascular: Syncope(-), Palpitations(-), Claudication(-)\n5. Respiratory: Dyspnea(-), Cough(-), Hemoptysis(-)\n6. Gastrointestinal: Anorexia(-), Nausea(-), Vomiting(-), Dysphagia(-), Heartburn(-), Abdominal fullness(-), Constipation(-)\n7. Genitourinary: Flank pain(-), Hematuria(-), Frequency(-)\n8. Musculoskeletal: Bone pain(+), Arthralgia(+), Myalgia(-)\n9. Metabolic: Heat intolerance(-), Cold intolerance(-), Thirst(-)\n10. Neurologic: Numbness(-), Plegias(-)"
+    },
+    {
+      "label": "個人病史 Personal history",
+      "text": "1. Drug allergy: denied\n2. Food allergy: denied\n3. Smoking: denied\n4. Drinking: denied\n5. Betel nut: denied\n6. TOCC\n   Travel history: denied recent 3 months\n   Occupation:\n   Cluster: denied\n   Contact history: denied"
+    }
+  ],
+  "診斷書": {
+    "拔釘 ROI": {
+      "(按鈕)": [
+        {
+          "label": "ROI olecranon",
+          "text": "右/左側尺骨鷹嘴突骨折術後已癒合。<以下空白>\n \n骨折癒合 減少異物感\n\n1.住院日自1年月日至1年月日出院，共天，於1年月日接受鋼板鋼釘移除手術。\n2.不宜激烈運動，宜休養一個月。宜24小時專人照顧兩周。\n3.宜門診追蹤複查。<以下空白> "
+        },
+        {
+          "label": "ROI clavicle",
+          "text": "1.右/左側鎖骨骨折術後已癒合。<以下空白>\n\n1.住院日自114年-月-日至年月日出院，共03天，於114年月日接受鋼板鋼釘移除手術。\n2.不宜激烈運動，宜休養一個月。宜24小時專人照顧兩周。\n3.宜門診追蹤複查。<以下空白>"
+        },
+        {
+          "label": "ROI patella",
+          "text": "右/左膝髕骨骨折術後已癒合<以下空白>\n\n1.於民國11年月日住院，住院至年月日，共日。於年月日右/左膝拔釘手術及自體血小板注射。\n2.患肢不宜激烈運動，宜休養至少一個月。\n3.宜門診追蹤複查。<以下空白>"
+        }
+      ]
+    },
+    "關節置換 Joint": {
+      "(按鈕)": [
+        {
+          "label": "Knee OA (TKR)",
+          "text": "右/左膝退化性關節炎。<以下空白>  \n\n1.住院日自11年月日 至1年月日出院，共天，於1年月日接受接受全人工關節置換手術。\n2.患肢不可踩地行走及激烈運動，宜休養至少三個月。宜使用拐杖、助行器及輪椅。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        },
+        {
+          "label": "RTSA",
+          "text": "右/左肩退化性關節炎<以下空白>\n1.住院日自1年月日至1年月日出院，共天，於1年月日接受右/左肩人工關節置換手術。\n2.患肢不宜激烈運動，宜休養至少三個月。宜懸臂吊帶使用。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        }
+      ]
+    },
+    "關節鏡 Scopic": {
+      "(按鈕)": [
+        {
+          "label": "RCT",
+          "text": "右/左肩旋轉肌破裂積水。<以下空白> \n\n1.住院日自1年月日至1年月日出院，共天，於1年月日接受右/左肩關節鏡輔助旋轉肌修補手術及自體血小板注射及羊膜使用。\n2.患肢不宜激烈運動，宜休養至少三個月。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        },
+        {
+          "label": "ACL+MM tear",
+          "text": "右/左膝前十字韌帶部分撕裂及內側半月板破裂。<以下空白>\n\n1.住院日自114年月日至114年月日出院，共天，於114年月\n日接受右/左膝關節鏡輔助行修補手術及自體血小板注射。\n2.患肢不宜激烈運動，宜休養至少三個月。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        },
+        {
+          "label": "ACL",
+          "text": "右/左膝前十字韌帶斷裂及內側半月板破裂。<以下空白>\n1.住院日自114年月日至114年月 出院，共 天，於114年09月24日接受關節鏡輔助修補手術及自體血小板濃縮液注射及羊膜幹細胞治療。\n2.患肢不宜激烈運動，宜膝支架輔助使用，宜休養至少三個月。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        },
+        {
+          "label": "SLAP",
+          "text": "左/右肩唇瓣破裂及積水。<以下空白>\n\n1.住院日自114年月日至114年月日出院，共 天，於114年月日接受左/右肩關節鏡輔助唇瓣修補手術及自體血小板注射及羊膜使用。\n2.患肢不宜激烈運動，宜休養至少三個月。宜24小時專人照顧一個月。\n3.宜門診追蹤複查。<以下空白>"
+        }
+      ]
+    },
+    "骨折 Fracture": {
+      "(按鈕)": [
+        {
+          "label": "Femoral ITC fracture",
+          "text": "右/左側股骨粗隆間移位性骨折。<以下空白>\n於民國112年05月15日至急診求診，112年05月15日住院，112年05月17日接受開放性復位併骨髓內釘固定手術治療，112年05月26日出院，共住院12天。患肢不宜負重，受傷後需他人照護三十天，宜休養至少三個月，需助行器及輪椅輔助使用。需繼續門診追蹤及復健治療。"
+        },
+        {
+          "label": "Proximal humeral fracture",
+          "text": "左/右側近端肱骨移位性骨折。<以下空白>\n1.於民國11年月日至急診求診，住院日自11年月日至11年月日出院，共天，於11年月日接受開放性復位併互鎖式骨板骨釘內固定及骨移植手術。\n2.患肢不宜負重及激烈運動，宜休養至少三個月。宜24小時專人照顧一個月。宜三角巾輔助使用。\n3.宜門診追蹤複查。<以下空白>"
+        }
+      ]
+    }
+  },
+  "Order相關": [
+    {
+      "label": "復健 Rehabilitation",
+      "text": "Dear Dr. \nThis is a -year-old fe/male patient. This time, s/he suffered from \nWe need your expertise for post operation rehabilitation (non/ partial/ full weight bearing). Thank you!"
+    },
+    {
+      "label": "帶到OR",
+      "text": "Post-OP, bring to OR"
+    }
+  ],
+  "HV": [
+    {
+      "label": "Local findings",
+      "text": "<Local finding>\nRight/Left foot: \nTenderness (+), Swelling (-), \nLocal heat (-), Erythema (-)\nValgus deformity of left big toe (+)\nDistal circulation, motor, sensation: ok"
+    },
+    {
+      "label": "CC",
+      "text": "Right/Left foot big toe valgus deformity and pain for many years"
+    },
+    {
+      "label": "Present illness",
+      "text": "This is a -year-old female patient with underlying disease of \n # \nThis time, s/he suffered from left foot big toe valgus deformity and pain for many years. Progressive pain and tenderness was note in recent months. He visited our OPD for help. The radiographs were check and revealed left hallux valgus with 2nd claw toe.. After well explanation about the risk and benefits of operation, he was admission to our ward for left foot surgical intervention."
+    }
+  ],
+  "骨折 Fracture": {
+    "鎖骨骨折 Clavicle fx": [
+      {
+        "label": "車禍主訴",
+        "text": "Right/ Left shoulder painful disability for hours"
+      },
+      {
+        "label": "車禍Present illnes",
+        "text": "This is a -year-old fe/male patient with underlying disease of\n # \nThis time, s/he suffered from right shoulder painful disability due to traffic accident about several hours before this admission. S/He was sent to our emergency room for help. Vital signs showed T: , PR: , RR: , BP: , SpO2:% (room air). The radiographs were checked and revealed right/ left distal radial fracture with displacement. After well explanation about the risk and benefits of operation, he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/ Left shoulder:\n  Tenderness (++), Swelling (++), Limited ROM (++)\nBony crepitus (+), Bony protrusion (+), Deformity (+)\n  Distal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Problem",
+        "text": "114/ / (POD#1) \n#1: Right/ Left clavicle fracture"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: mild, VAS 3"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP 1 mmHg\nWound: dry and clean, no obvious infection sign,\nmild/ moderate/ massive blood woozing, Blister (-)\nDistal circulation, motion, sensation: intact\nSwelling of right/ left shoulder (+)\nROM of right/ left shoulder: nearly free\nPost-operative X-ray: Good reduction and fixation"
+      },
+      {
+        "label": "Plan",
+        "text": "Wound care\nPain control\nPost–operative antibiotics (cephalexin) 1 day use \nLocal ice packing\nRehabilitation exercise\nSling use\nDischarge today and OPD follow up"
+      }
+    ],
+    "遠端橈骨骨折 Distal radial fx": [
+      {
+        "label": "車禍主訴",
+        "text": "Right/ Left forearm painful disability for hours"
+      },
+      {
+        "label": "車禍 Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of\n # \nThis time, s/he suffered from right forearm painful disability due to traffic accident about several hours before this admission. S/He was sent to our emergency room for help. Vital signs showed T: , PR: , RR: , BP: , SpO2:% (room air). The radiographs were checked and revealed right/ left distal radial fracture with displacement. After well explanation about the risk and benefits of operation, s/ he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "PE & Local findings",
+        "text": "<Physical examination>\nConsciousness status: clear and alert\nAppearance: acute ill-looking\nVital sign: BT ℃, HR /min, RR /min, BP   mmHg\nBody weight: KG, Body height: CM\nChest: Symmetric expansion, Breath sound: clear\nHeart: irregular heartbeat, no murmur\nAbdomen:\nInspection: soft and flat\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable\nBowel sound: normal active\nExtremity: free movable, except right/ left wrist\n            pitting edema (-)\n\n<Local finding>\nRight/ Left wrist:\n  Tenderness (+), Swelling (+), Pseudomotion (+)\nLimited ROM (+), Bony crepitus (+), Deformity (+)\n  Distal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1) 11:09\nProblem #1: Right/ Left distal radius fracture"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear & alert\nVital sign: BT ℃, HR /min, RR /min, BP /mmHg\nWound: mild/ moderate/ massive bloody oozing, Blister (-)\nDistal circulation, motion, sensation: intact\nSwelling of forearm (+++), bullas (-)\nPost-operative X-ray: good reduction and fixation"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS: 5"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care \nLocal ice packing\nPain control\nElevation of hand\nRehabilitation exercise\nPost operative antibiotics use (cephalexin) for 1 day\nFell down prevention"
+      },
+      {
+        "label": "Plans",
+        "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control\n4. Ice packing\n5. Elevation of right/left forearm"
+      },
+      {
+        "label": "Impression",
+        "text": "Right/Left distal radial fracture"
+      }
+    ],
+    "股骨ITC fracture": [
+      {
+        "label": "CC",
+        "text": "Right/Left hip painful disability for hours"
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male suffered from right hip painful disability for hours due to falling down to the ground on 11//. S/He came to our ER for help at first. Vital signs showed: T: , HR: , RR: , BP:, SpO2:. / Due to the persisted pain, she was brought to LMD for help. The radiographs were checked and revealed right/ left femoral intertrochanteric linear fracture and surgical intervention was suggeste. After well explanation about the risks and benefits of operation, s/he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/Left hip:\n  Tenderness (+), Swelling (+), Ecchymosis (+)\nLimited ROM (+), Patrick test (+)\n  External rotated deformity of leg (+)\n  Distal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Impression",
+        "text": "1. Right/Left femoral intertrochanteric fracture "
+      },
+      {
+        "label": "Plan",
+        "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control  \n4. Local ice packing "
+      },
+      {
+        "label": "Problem",
+        "text": "11// (POD#1) \nProblem #1: Right/Left femoral intertrochanteric fracture\n         #2: Anemia"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS: 6"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nConjunctive appearance: mild pale\nLips appearance: mild pale\nVital sign: BT 3℃, HR /min, RR /min, BP  mmHg\nWound: mild bloody oozing, no obvious infection sign\nDistal circulation, motion, sensation: intact\nSwelling of right thigh (+) \nSitting up to 70 degrees (+)\nPost-operative X-ray: good reduction and fixation\nPost-operative Hb g/dl, Hct  %, WBC \n (Pre-operative Hb g/dl)"
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/Left femoral intertrochanteric fracture s/p \nAcute anemia due to blood loss"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control\nIV form antibiotic with () use \nLocal ice packing\nRehabilitation exercise \nNon-weight bearing for 2 months \nEncourage sitting at bed side as tolerable\nMonitor vital signs\nPatient education for high Fe+ diet intake"
+      }
+    ],
+    "肱骨骨折 Humerus fracture": [
+      {
+        "label": "CC",
+        "text": "Right/Left shoulder painful disability for hours"
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of:\n # \nThis time, s/he suffered from right/left shoulder painful disability due to traffic accident/ fall down event about several hours before this admission. She was brought to our emergency room for help. lVital signs showed: T: , HR:, RR:, BP:, SpO2:. The radiographs were checked and revealed right/ left humeral head fracture (with shoulder dislocation. Manual reduction of shoulder dislocation was performed at ER.) After detailed explanation about the risks & benefits of operation, s/he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/ Left shoulder:\n  Tenderness (+), Swelling (+), Ecchymosis (+-)\nLimited ROM (+), Bony crepitus (+), deformity (+)\n  Distal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Impression",
+        "text": "<Impression>\n1.\tRight/ Left humeral head fracture with shoulder dislocation \n2.\tMultiple abrasion wounds on limbs "
+      },
+      {
+        "label": "Plan",
+        "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control\n4. Local ice packing"
+      },
+      {
+        "label": "Problem",
+        "text": "11// (POD#1) 13:15\nProblem #1: Right/Left proximal humeral fracture-dislocation"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS 5"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP / mmHg\nWound: mild bloody oozing, no obvious infection sign\nDistal circulation, motion, sensation: intact\nPost-operative X-ray: good reduction and fixation\nSwelling of shoulder (+)\nROM of right/ left shoulder: 0-60 degrees"
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/Left proximal humeral fracture-dislocation s/p ORIF "
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care  \nPain control\nIV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nAvoid external rotation\nSling protection use"
+      }
+    ]
+  },
+  "關節鏡 Scopic": {
+    "上肩關節唇前後撕裂傷 SLAP": [
+      {
+        "label": "Plan",
+        "text": "1. Admission routine\n2. Pain control\n3. Pre-operation survey\n4. Arrange operation "
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding> \nRight/Left shoulder: \n   Tenderness over right/left shoulder (+), swelling (+/-)\n   ROM: 0-160 degrees, motion range of right/left shoulder\n   Distal circulation, sensation: ok  "
+      },
+      {
+        "label": "CC",
+        "text": "Right/Left shoulder pain and swelling for "
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of \n # \nThis time, s/he suffered from right/left shoulder pain and swelling (after fell down accident. S/He came to our outpatient department for help. S/He received conservative treatment first. However, due to the persisted pain, limited ROM and the symptoms got worse. The MRI showed:\nAfter well explanation about the risks and benefits of operation, s/he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1) \nProblem #1: Right/Left shoulder superior labrum anterior-to-posterior with effusion"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate, VAS 4 – 5"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT ℃, HR /min, RR /min, BP 1 mmHg\nWound: mild bloody oozing\nDistal circulation, motion, sensation: intact\nSwelling of Right/Left shoulder (+)\nROM of Right shoulder: 0-60, due to pain"
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/Left shoulder SLAP with rotator cuff tear s/p Arthroscopy + PRP injection + Aminogen"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control\nIV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nSling use"
+      },
+      {
+        "label": "1111蔡基三MRI",
+        "text": "1. Partial thickness tears at the distal supraspinatous tendon.\n2. SLAP lesion about 11-2 o'clockwise.\n3. Moderate osteoarthrosis at the glenohumeral joint.\n4. For details, please see the aforementioned descriptions."
+      }
+    ],
+    "前十字韌帶 ACL": [
+      {
+        "label": "CC",
+        "text": "Right/ Left knee painful after twist/ playing basket ball for 1 month"
+      },
+      {
+        "label": "Prensent illness",
+        "text": "This-year-old fe/male patient suffered from right/ left knee painful after twist/ playing basketball injury for ??. The symptoms become worse in resent. S/he was visited rehabilitation department for help firstly, and received conservative treatment. However, due to the persisted pain, s/he was brought to our OPD. The physical exam showed tenderness, swelling, Lachman(+), ADT(+), Pivot shift(+).  A MRI showed:\n\nAfter well explanation about the risks and benefits of operation, s/he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/ Left knee: \nROM of knee: limited to pain\n   Tenderness (+-), Swelling (-), \nLocal heat (-), Erythema (-)\nDistal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Plan",
+        "text": "1. Arrange operation (Arthroscope)\n2. Pre-operative survey\n3. Pain control"
+      },
+      {
+        "label": "Problem",
+        "text": "11// (POD#1) 10:03\nProblem #1: Right/ Left knee ACL complete tear"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS 5"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3 ℃, HR  /min, RR /min, BP mmHg\nWound: dry & clean \nDistal circulation, motion, sensation: intact\nSwelling of left lower leg: mild \nStraight leg elevation (+)\nAmbulation with aids (+)"
+      },
+      {
+        "label": "Assessment",
+        "text": "Left anterior cruciate ligament tear s/p anthroscopic repair"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control\nPost–operative IV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nElevation of left lower leg\nFall down prevention\nKnee brace protection (0-90 degrees)"
+      },
+      {
+        "label": "1111王亭鈞MRI",
+        "text": "1. ACL tear.\n2. Radial tear at posterior horn of lateral meniscus. Bone contusions.\n3. Moderate joint effusion. "
+      }
+    ],
+    "旋轉肌 RCT": [
+      {
+        "label": "Present illness",
+        "text": "This a -year-old fe/male patient with underlying disease of \n # \nS/he had suffered from right/ left shoulder pain and soreness for --. S/He received conservative treatment at first. Due to the symptoms was no release, she visited our OPD for help. The physical exam showed tenderness, swelling, limited ROM 0-90 degree, PROM 160 degrees. A MRI revealed:\nAfter well explanation about the risks and benefits of operation, s/he was admission to our ward for surgical intervention."
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding> \nRight/Left shoulder: \n   Tenderness over right/left shoulder (+), swelling (+), arm drop (+)\n   ROM: pain over forward flexion 30 degree\n   Distal circulation, sensation: ok  "
+      },
+      {
+        "label": "Plan",
+        "text": "1. Admission routine\n2. Pain control\n3. Pre-operation survey\n4. Arrange operation "
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1)\nProblem #1: Right/Left shoulder rotator cuff tear "
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: mild, VAS 3"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP /mmHg\nWound: dry and clean\nDistal circulation, motion, sensation: intact\nSwelling of right shoulder (+)\nROM of right/left shoulder: limited, due to pain"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control \nLocal ice packing\nRehabilitation exercise\nSling use \nDischarge today and OPD follow up"
+      },
+      {
+        "label": "1111蔡玉琴MRI",
+        "text": "shoulder impingement, right, with moderate full-thickness torn supraspinatus tendon and subacromial-subdeltoid bursitis. \nlarge full-thickness torn infraspinatus tendon with marked atrophic infraspinatus muscle. \narticular-sided partial-thickness torn subscapularis tendon with subluxed biceps (long head) tendon. \ntype IIC superior labrum anterior-to-posterior (SLAP) lesion. \nmoderate synovitis, right glenohumeral joint, r/o bicipital (long head) tenosynovitis. "
+      },
+      {
+        "label": "1111郭美雲MRI",
+        "text": "1. Full-thickness tear of supraspinatus tendon. \n2. Infraspinatus and subscapularis tendinopathy. \n3. Postoperative changes of shoulder. \n4. Osteoarthrosis of glenohumeral and acromioclavicular joints. "
+      },
+      {
+        "label": "1111林珍華MRI",
+        "text": "- Lt rotator cuff tear. Full-thickness tear of supraspinatus tendon. Subscapularis tendonopathy.\n- Mild effusion at Lt glenohumeral joint, subdeltoid bursa, and infarcoracoid bursa. Please correlate with clinical condition and following up"
+      },
+      {
+        "label": "1109吳秋雲MRI",
+        "text": "1. Near total full thickness tear of the supraspinatous tendon.\n2. Some intrasubstance and partial thickness tear at the long head of \nbiceps tendon, combined with tenosynovitis.\n3. Bursitis and synovitis in the right shoulder."
+      },
+      {
+        "label": "CC",
+        "text": "Right/ Left shoulder pain and soreness for "
+      }
+    ],
+    "前十字+內半月板 ACL+MM tear": [
+      {
+        "label": "CC",
+        "text": "Right/Left knee painful and swelling after jumping injury "
+      },
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/Left knee:\nTenderness (+/-), Swelling (+)\nLimited ROM (+/-), Instability (+/-)\n  Distal circulation, motion, sensation: ok"
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient suffered from right/left knee painful due to sport injury (jumping injury) for . S/He came to our Ortho-OPD for help and received conservative treatment. The radiographs were checked no obvious fracture, a MRI showed:\n\nAfter well explanation about the risks and benefits of operation, s/he was admission to our ward for surgical intervention."
+      },
+      {
+        "label": "Plan",
+        "text": "<Impression>\nRight/Left knee ACL partial rupture and MM tear\n\n<Plan>\n1. Arrange operation (Arthroscopic with PRP injection)\n2. Pre-operative survey\n3. Pain control\n4. Ice packing"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1) \nProblem #1: Right/Left knee ACL and MM tear "
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS: 4-5"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR 1/min, BP 1mmHg\nWound: mild bloody discharge\nDistal circulation, motion, sensation: intact\nSwelling of left lower leg (+), Bulla (-) \nStraight leg elevation (+/-)\nStanding up at bed side (+), short times only\nAmbulation with aids (+)"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control\nPost–operative IV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nElevation of left lower leg\nFall down prevention \nArrange Knee brace"
+      },
+      {
+        "label": "1104顏君乘MRI",
+        "text": "* ACL: tear.\n* PCL: unremarkable.\n* Medial meniscus tear.\n* Moderate joint effusion. "
+      },
+      {
+        "label": "1104黃若茜MRI",
+        "text": "recent complete ACL tear, left, with PCL buckling. \ngrade 2 MCL injury, r/o MCL bursitis. \nmedial meniscal migration with torn body and posterior horn; lateral meniscal tear, posterior horn. \nmoderate posttraumatic synovitis, left knee joint. \ncommunicating and dissecting ruptured Baker cyst. \nr/o (micro)trabecular fracture(s), left distal femoral and proximal tibial metaepiphyses. "
+      },
+      {
+        "label": "1104蘇志良MRI",
+        "text": "> Full-thickness tear of anterior cruciate ligament \n> Medial meniscus and lateral meniscus tear\n> osteoarthritis grade II. Please correlate with clinical condition and following up"
+      }
+    ]
+  },
+  "關節鬆動術 Manipulation": {
+    "肘關節僵硬 Elbow stiffness": [
+      {
+        "label": "Local findings",
+        "text": "<Local finding>\nRight/Left elbow: \nPrevious operative scar over left elbow\nROM of elbow: 5-80 degree\n   Tenderness (+-), Swelling (-), \nLocal heat (-), Erythema (-)\nDistal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Plan",
+        "text": "<Impression>\nLeft distal humeral fracture s/p ORIF with stiffness\n\n<Plan>\n1.Pain control\n2.Local ice packing\n3.Arrange operation (manipulation + PRP injection)\n4.Pre-operation survey"
+      }
+    ],
+    "肩膀僵硬 Shoulder stiffness": [
+      {
+        "label": "CC",
+        "text": "Right/Left shoulder pain and limited ROM for "
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of \n # \nThis time, s/he suffered from right/left shoulder pain and limited ROM when shoulder motion for . S/He visited our OPD for help. Right/Left shoulder stiffness (range of motion limited) was noted. S/He received conservative treatment (pain control + rehabilitation exercise) at first. Due to the sign and symptoms were no release, s/he visited our OPD for help again. Shoulder frozen shoulder was suspected. After well explanation about the risks and benefits of operation, s/he was admitted to our ward for manipulation."
+      },
+      {
+        "label": "PE & Local findings",
+        "text": "<Physical examination>\nAppearance: ill-looking\nViatl sign: BT ℃, HR /min, RR /min, BP  mmHg \nBody height:  CM, Body weight:  KG\nChest: Symmetric expansion, Breath sound: clear\nHeart: Regular heart beat, no murmur\nAbdomen:\nInspection: soft & protruded\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable \nBowel sound: normal active\nExtremity: free movable, except left hip\n           No obvious foot edema\n\n<Local finding> \nRight/Left shoulder: \nROM of shoulder: 0-90 degree\n   Tenderness (+-), Swelling (-), \nLocal heat (-), Erythema (-)\nDistal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Impression & Plan",
+        "text": "<Impression>\n1.Right/Left frozen shoulder\n<Plan>\n1.Pain control\n2.Pre-operation survey\n3.Arrange operation (Manipulation + stem cell injection)"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (OP DAY)\nProblem #1: Right/left frozen shoulder"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: mild ; VAS 3"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3 ℃, HR  /min, RR  /min, BP  mmHg\nDistal circulation ,motion, sensation: intact\nSwelling: mild \nROM of right shoulder: nearly free"
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/Left frozen shoulder s/p Manipulation + aminofix injection"
+      },
+      {
+        "label": "Plans",
+        "text": "Local ice packing \nRehabilitation exercise\nPain control\nDischarge today and OPD follow up"
+      }
+    ]
+  },
+  "關節置換 Joint": {
+    "全膝關節置換術 TKR": [
+      {
+        "label": "OA TKR主訴",
+        "text": "Right/ Left knee pain when ambulation for several years"
+      },
+      {
+        "label": "OA TKR present illness",
+        "text": "This is a year-old fe/ male patient with underlying disease of \n # \nThis time, s/he suffered from right/ left knee soreness and pain for several years. Symptoms worsened in recent 3-4 months with limping gait. S/He visited to our OPD for help. The radiographs were checked and revealed advanced osteoarthritis of right/ left knee. She received conservative treatment at first. Due to fail of conservative treatment, s/ he visited to our OPD for help again and asked for operation. After well explanation about the risks and benefits of operation, s/ he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "PE & Local findings",
+        "text": "<Physical examination>\nConsciousness status: clear and alert\nAppearance: ill looking\nViatl sign: BT 3℃, HR /min, RR 1/min, BP 1 mmHg\nBody weight:  KG, Body height: 1 CM\nChest: Symmetric expansion, Breath sound: clear\nHeart: Regular heart beat, no murmur\nAbdomen: \nInspection: soft and protruded\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable \nBowel sound: normal active\nExtremity: free movable, except right/ left knee\n           No obvious foot edema\n\n<Local finding>\nRight/ Left knee:\nTenderness (-), Swelling (+/-), Local heat (-)\nInstability (-), Deformity (+/-), Erythema (-)\nROM of left knee: 0〜120 degrees\n  Distal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1) \n#1: Right/ Left knee osteoarthritis\n#2: Acute anemia due to blood loss"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS: 6"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR 1/min, BP 1 mmHg\nWound: mild bloody oozing, no infection sign\nHemovac drain:  ml/day\nSwelling of right/ left knee (+)\nDistal circulation, motion, sensation: intact\nPost-op X-ray: good alignment and position of prosthesis\nStraight leg elevation (-)\nAmbulation with aids (+), short distance only\nPost-operative Hb  gm/dl, Hct  %, WBC \n(Pre-operative Hb  gm/dl) "
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/ Left knee osteoarthritis s/p total knee replacement\nAcute anemia due to blood loss"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care \nPain control \nLocal ice packing\nElevation of affected limb\nContinued IV antibiotic (cephalexin) use 1 day\nConsult 復健科 for rehabilitation program\nStart C.P.M use (0-60 degrees)\nFall down prevention\nRecheck CBC tomorrow"
+      },
+      {
+        "label": "Impression",
+        "text": "Right/Left knee osteoarthritis"
+      },
+      {
+        "label": "Plan",
+        "text": "1. Arrange operation (Total knee replacement)\n2. Pre-operative survey\n3. Pain control"
+      }
+    ],
+    "全髖關節置換術 THR": [
+      {
+        "label": "OA/ AVN主訴",
+        "text": "Right/ Left hip pain and disability for months/ years"
+      },
+      {
+        "label": "AVN present illness",
+        "text": "This is a -year-old fe/ male patient with underlying disease of \n # \nThis time, S/ he suffered from progressive pain over right/ left hip with limping gait in recent months. S/ He received medications for pain control. Due to persisted and intolerable pain and failed to conservative treatment, s/ he visited our OPD for help. The radiographs were checked and revealed right femoral head avascular necrosis with subchondral fracture. After detailed explanation about the risks and benefits of operation, he was admitted to our ward for surgical intervention. "
+      },
+      {
+        "label": "PE & Local findings",
+        "text": "<Physical examination>\nConsciousness status: clear and alert\nAppearance: ill-looking\nViatl sign: BT  ℃, HR  /min, RR  /min, BP  mmHg \nBody weight:   KG, Body height:  CM\nChest: Symmetric expansion, Breath sound: clear\nHeart: Regular heart beat, no murmur\nAbdomen:\nInspection: soft and protruded\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable \nBowel sound: normal active\nExtremity: free movable, except right/ left hip\n         No obvious foot edema\n\n<Local finding>\n Right/ Left hip: \nTenderness (+-), Erythema (-)\nLocal heat (-), Swelling (-) \nLimited ROM (++), Patrick test (++)\n  Distal circulation, motor, sensation: ok\n  Patrice test (+)"
+      },
+      {
+        "label": "Problem",
+        "text": "114/ / (POD#1)\nProblem #1: Right/ Left hip avascular necrosis\n        #2: Post operation acute anemia"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate; VAS: 6"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT  ℃, HR /min, RR 18 /min, BP 1/1 mmHg\nWound: mild bloody oozing, no obvious infection sign\nHemo-Vac drainage,  ml/day\nSwelling of right thigh (+)\nDistal circulation, motion, sensation: intact\nStanding up at bed side (+); short times only\nPre-operation CBC: Hb g/dl (/), Hct %, WBC\nPost-operative CBC: Hb  m/dl, Hct  %, WBC  \nConjunctive and lip appearance: mild pink\nNo dizziness or vomiting"
+      },
+      {
+        "label": "Plan",
+        "text": "Wound care\nPain control\nPost–operative IV form antibiotic use for 1 day (Cephalexin)\nLocal ice packing\nConsult 復健科for rehabilitation exercise\nKeep leg abduction and external rotation (prevent dislocation)\nFall down prevention\nRecheck CBC tomorrow"
+      }
+    ],
+    "肩關節OA RTSA": [
+      {
+        "label": "CC",
+        "text": "Right/ Left shoulder painful disability for"
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of:\n # \nThis time, s/he suffered from right/ left shoulder pain and tenderness for..., she visited our OPD for help. The radiographs were checked and revealed OA. A MRI showed:\n\nAfter detailed explanation about the risks and benefits of operation, s/he was admitted to our ward for surgical intervention."
+      },
+      {
+        "label": "1111郭美雲MRI",
+        "text": "1. Full-thickness tear of supraspinatus tendon. \n2. Infraspinatus and subscapularis tendinopathy. \n3. Postoperative changes of shoulder. \n4. Osteoarthrosis of glenohumeral and acromioclavicular joints. "
+      },
+      {
+        "label": "PE  & Local findings",
+        "text": "<Physical examination>\nConsciousness status: clear and alert\nAppearance: ill-looking\nViatl sign: BT 3℃, HR /min, RR /min, BP /mmHg\nBody weight: Kg, Body height: CM\nChest: Symmetric expansion, Breath sound: clear\nHeart: Regular heart beat, no murmur\nAbdomen:  \nInspection: soft and protruded\nTenderness (-), Rebounding pain (-)\nLiver: impalpable, Spleen: impalpable \nBowel sound: normal active\nExtremity: free movable, except right/left shoulder\npitting edema (-)\n\n<Local finding>\nRight/Left shoulder:  \nTenderness (+), Swelling (+/-), Ecchymosis (+)\nBony crepitus (+/-), Bony protrusion (+), Limited ROM (+)\n  Distal circulation, motor, sensation: ok "
+      },
+      {
+        "label": "Impression",
+        "text": "Right/Left RCT massive with OA"
+      },
+      {
+        "label": "Plan",
+        "text": "1. Arrange operation (RTSA)\n2. Pre-operative survey\n3. Pain control\n4. Local ice packing\n5. Sling support"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1)\nProblem #1: Right/Left RCT massive with OA"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: moderate, VAS 5-6"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nConjunctive appearance: mild pale\nLips appearance: mild pale\nVital sign: BT 3℃, HR /min, RR /min, BP /mmHg\nWound: mild bloody oozing, no obvious infection sign\nHemo-Vac drainage, ml/day with bloody discharge\nDistal circulation, motion, sensation: intact\nSwelling of left shoulder (+)\nROM of right/left shoulder: 0-90∘"
+      },
+      {
+        "label": "Assessment",
+        "text": "Right/Left RCT massive with OA s/p Reverse total shoulder arthroplasty"
+      },
+      {
+        "label": "Plans",
+        "text": "Wound care\nPain control\nLocal ice packing\nRehabilitation exercise\nSling use\nMonitor vital sign\nPatient education for high Fe+ diet intake"
+      }
+    ]
+  },
+  "拔釘 ROI": {
+    "(按鈕)": [
+      {
+        "label": "CC",
+        "text": "For removal of implant"
+      },
+      {
+        "label": "Problem",
+        "text": "114// (POD#1) \n#1:  fracture s/p ORIF, fracture union"
+      },
+      {
+        "label": "Objective",
+        "text": "Consciousness status: clear and alert\nVital sign: BT ℃, HR /min, RR 1/min, BP 1/ mmHg \nWound: dry and clean\nDistal circulation, motor, sensation: O.K.\nSwelling: mild\n\n<Patella>\nStraight leg elevation (+)\nAmbulation (+)"
+      },
+      {
+        "label": "Plan2",
+        "text": "Wound care\nPain control\nLocal ice packing\nRehabilitation exercise\nDischarge today and OPD follow up"
+      },
+      {
+        "label": "Present illness",
+        "text": "This is a -year-old fe/male patient with underlying disease of\n # \nS/He suffered from ?? fracture due to traffic accident/ falling accident, and received ORIF with locking plate/ with TBW at our hospital on 11//. The post-operative course was rather smooth except irritation of plate. S/He received regular followed-up at our Ortho OPD. Recently, according to the X-ray film showed union of fracture. After well explanation about the risks and benefits of operation, s/he was admission to our ward for removal of the implants."
+      },
+      {
+        "label": "鎖骨 Clavicle",
+        "text": "<Local finding>\nRight/Left shoulder: \nPrevious operative scar over right/left shoulder\nHypertrophic scar (+-)\nROM: nearly free\nPalpable plate with irritation (+/-)\nTenderness (-), Swelling (-), Local heat (-), Erythema (-)\nDistal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "脛骨 Tibial shaft",
+        "text": "<Local finding>\nRight/ Left lower leg: \n  Hypertrophic scar over knee\n ROM: free, \n  Tenderness (-), Swelling (-), \nLocal heat (-), Erythema (-)\nLeft thigh muscle atrophy: mild\nDistal circulation, motor, sensation: ok"
+      },
+      {
+        "label": "AC脫臼 AC dislocaiton",
+        "text": "<Local finding>\nRight/Left shoulder: \nPrevious operative scar over right/left shoulder\nHypertrophic scar (+)\nROM of shoulder: nearly free\nPalpable plate with irritation (+)"
+      },
+      {
+        "label": "Plans",
+        "text": "1.Arrange operation (Removal of implants)\n2.Pre-operation survey"
+      },
+      {
+        "label": "Subjective",
+        "text": "Pain: mild; VAS 3"
+      }
+    ],
+    "髕骨 Patellar": {
+      "（按鈕）": [],
+      "(按鈕)": [
+        {
+          "label": "髕骨 Patellar",
+          "text": "<Local finding>\nRight/Left knee: \nPrevious operative scar over right/left knee\nROM: free, Tenderness (-), Swelling (-), \nLocal heat (-), Erythema (-)\nPalpable pin with irritation (++)\nThigh muscle atrophy (+)\nDistal circulation, motor, sensation: ok"
+        }
+      ]
+    }
+  }
+}
