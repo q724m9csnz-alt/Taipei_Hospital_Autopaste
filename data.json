@@ -93,20 +93,6 @@
       "text": "Post-OP, bring to OR"
     }
   ],
-  "HV": [
-    {
-      "label": "Local findings",
-      "text": "<Local finding>\nRight/Left foot: \nTenderness (+), Swelling (-), \nLocal heat (-), Erythema (-)\nValgus deformity of left big toe (+)\nDistal circulation, motor, sensation: ok"
-    },
-    {
-      "label": "CC",
-      "text": "Right/Left foot big toe valgus deformity and pain for many years"
-    },
-    {
-      "label": "Present illness",
-      "text": "This is a -year-old female patient with underlying disease of \n # \nThis time, s/he suffered from left foot big toe valgus deformity and pain for many years. Progressive pain and tenderness was note in recent months. He visited our OPD for help. The radiographs were check and revealed left hallux valgus with 2nd claw toe.. After well explanation about the risk and benefits of operation, he was admission to our ward for left foot surgical intervention."
-    }
-  ],
   "骨折 Fracture": {
     "鎖骨骨折 Clavicle fx": [
       {
@@ -130,7 +116,7 @@
         "text": "Pain: mild, VAS 3"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP 1 mmHg\nWound: dry and clean, no obvious infection sign,\nmild/ moderate/ massive blood woozing, Blister (-)\nDistal circulation, motion, sensation: intact\nSwelling of right/ left shoulder (+)\nROM of right/ left shoulder: nearly free\nPost-operative X-ray: Good reduction and fixation"
       },
       {
@@ -156,7 +142,7 @@
         "text": "114// (POD#1) 11:09\nProblem #1: Right/ Left distal radius fracture"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear & alert\nVital sign: BT ℃, HR /min, RR /min, BP /mmHg\nWound: mild/ moderate/ massive bloody oozing, Blister (-)\nDistal circulation, motion, sensation: intact\nSwelling of forearm (+++), bullas (-)\nPost-operative X-ray: good reduction and fixation"
       },
       {
@@ -164,11 +150,11 @@
         "text": "Pain: moderate; VAS: 5"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care \nLocal ice packing\nPain control\nElevation of hand\nRehabilitation exercise\nPost operative antibiotics use (cephalexin) for 1 day\nFell down prevention"
       },
       {
-        "label": "Plans",
+        "label": "pre_op_plan",
         "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control\n4. Ice packing\n5. Elevation of right/left forearm"
       },
       {
@@ -194,7 +180,7 @@
         "text": "1. Right/Left femoral intertrochanteric fracture "
       },
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control  \n4. Local ice packing "
       },
       {
@@ -206,7 +192,7 @@
         "text": "Pain: moderate; VAS: 6"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nConjunctive appearance: mild pale\nLips appearance: mild pale\nVital sign: BT 3℃, HR /min, RR /min, BP  mmHg\nWound: mild bloody oozing, no obvious infection sign\nDistal circulation, motion, sensation: intact\nSwelling of right thigh (+) \nSitting up to 70 degrees (+)\nPost-operative X-ray: good reduction and fixation\nPost-operative Hb g/dl, Hct  %, WBC \n (Pre-operative Hb g/dl)"
       },
       {
@@ -214,7 +200,7 @@
         "text": "Right/Left femoral intertrochanteric fracture s/p \nAcute anemia due to blood loss"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control\nIV form antibiotic with () use \nLocal ice packing\nRehabilitation exercise \nNon-weight bearing for 2 months \nEncourage sitting at bed side as tolerable\nMonitor vital signs\nPatient education for high Fe+ diet intake"
       }
     ],
@@ -236,7 +222,7 @@
         "text": "<Impression>\n1.\tRight/ Left humeral head fracture with shoulder dislocation \n2.\tMultiple abrasion wounds on limbs "
       },
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "1. Arrange operation (ORIF)\n2. Pre-operative survey\n3. Pain control\n4. Local ice packing"
       },
       {
@@ -248,7 +234,7 @@
         "text": "Pain: moderate; VAS 5"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP / mmHg\nWound: mild bloody oozing, no obvious infection sign\nDistal circulation, motion, sensation: intact\nPost-operative X-ray: good reduction and fixation\nSwelling of shoulder (+)\nROM of right/ left shoulder: 0-60 degrees"
       },
       {
@@ -256,7 +242,7 @@
         "text": "Right/Left proximal humeral fracture-dislocation s/p ORIF "
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care  \nPain control\nIV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nAvoid external rotation\nSling protection use"
       }
     ]
@@ -264,7 +250,7 @@
   "關節鏡 Scopic": {
     "上肩關節唇前後撕裂傷 SLAP": [
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "1. Admission routine\n2. Pain control\n3. Pre-operation survey\n4. Arrange operation "
       },
       {
@@ -288,7 +274,7 @@
         "text": "Pain: moderate, VAS 4 – 5"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT ℃, HR /min, RR /min, BP 1 mmHg\nWound: mild bloody oozing\nDistal circulation, motion, sensation: intact\nSwelling of Right/Left shoulder (+)\nROM of Right shoulder: 0-60, due to pain"
       },
       {
@@ -296,7 +282,7 @@
         "text": "Right/Left shoulder SLAP with rotator cuff tear s/p Arthroscopy + PRP injection + Aminogen"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control\nIV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nSling use"
       },
       {
@@ -330,7 +316,7 @@
         "text": "Pain: moderate; VAS 5"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3 ℃, HR  /min, RR /min, BP mmHg\nWound: dry & clean \nDistal circulation, motion, sensation: intact\nSwelling of left lower leg: mild \nStraight leg elevation (+)\nAmbulation with aids (+)"
       },
       {
@@ -338,7 +324,7 @@
         "text": "Left anterior cruciate ligament tear s/p anthroscopic repair"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control\nPost–operative IV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nElevation of left lower leg\nFall down prevention\nKnee brace protection (0-90 degrees)"
       },
       {
@@ -368,11 +354,11 @@
         "text": "Pain: mild, VAS 3"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR /min, BP /mmHg\nWound: dry and clean\nDistal circulation, motion, sensation: intact\nSwelling of right shoulder (+)\nROM of right/left shoulder: limited, due to pain"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control \nLocal ice packing\nRehabilitation exercise\nSling use \nDischarge today and OPD follow up"
       },
       {
@@ -410,7 +396,7 @@
         "text": "This is a -year-old fe/male patient suffered from right/left knee painful due to sport injury (jumping injury) for . S/He came to our Ortho-OPD for help and received conservative treatment. The radiographs were checked no obvious fracture, a MRI showed:\n\nAfter well explanation about the risks and benefits of operation, s/he was admission to our ward for surgical intervention."
       },
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "<Impression>\nRight/Left knee ACL partial rupture and MM tear\n\n<Plan>\n1. Arrange operation (Arthroscopic with PRP injection)\n2. Pre-operative survey\n3. Pain control\n4. Ice packing"
       },
       {
@@ -422,11 +408,11 @@
         "text": "Pain: moderate; VAS: 4-5"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR 1/min, BP 1mmHg\nWound: mild bloody discharge\nDistal circulation, motion, sensation: intact\nSwelling of left lower leg (+), Bulla (-) \nStraight leg elevation (+/-)\nStanding up at bed side (+), short times only\nAmbulation with aids (+)"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control\nPost–operative IV form antibiotic use * 1 day\nLocal ice packing\nRehabilitation exercise\nElevation of left lower leg\nFall down prevention \nArrange Knee brace"
       },
       {
@@ -480,7 +466,7 @@
         "text": "Pain: mild ; VAS 3"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3 ℃, HR  /min, RR  /min, BP  mmHg\nDistal circulation ,motion, sensation: intact\nSwelling: mild \nROM of right shoulder: nearly free"
       },
       {
@@ -488,7 +474,7 @@
         "text": "Right/Left frozen shoulder s/p Manipulation + aminofix injection"
       },
       {
-        "label": "Plans",
+        "label": "plan",
         "text": "Local ice packing \nRehabilitation exercise\nPain control\nDischarge today and OPD follow up"
       }
     ]
@@ -516,7 +502,7 @@
         "text": "Pain: moderate; VAS: 6"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT 3℃, HR /min, RR 1/min, BP 1 mmHg\nWound: mild bloody oozing, no infection sign\nHemovac drain:  ml/day\nSwelling of right/ left knee (+)\nDistal circulation, motion, sensation: intact\nPost-op X-ray: good alignment and position of prosthesis\nStraight leg elevation (-)\nAmbulation with aids (+), short distance only\nPost-operative Hb  gm/dl, Hct  %, WBC \n(Pre-operative Hb  gm/dl) "
       },
       {
@@ -524,7 +510,7 @@
         "text": "Right/ Left knee osteoarthritis s/p total knee replacement\nAcute anemia due to blood loss"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care \nPain control \nLocal ice packing\nElevation of affected limb\nContinued IV antibiotic (cephalexin) use 1 day\nConsult 復健科 for rehabilitation program\nStart C.P.M use (0-60 degrees)\nFall down prevention\nRecheck CBC tomorrow"
       },
       {
@@ -532,7 +518,7 @@
         "text": "Right/Left knee osteoarthritis"
       },
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "1. Arrange operation (Total knee replacement)\n2. Pre-operative survey\n3. Pain control"
       }
     ],
@@ -558,11 +544,11 @@
         "text": "Pain: moderate; VAS: 6"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT  ℃, HR /min, RR 18 /min, BP 1/1 mmHg\nWound: mild bloody oozing, no obvious infection sign\nHemo-Vac drainage,  ml/day\nSwelling of right thigh (+)\nDistal circulation, motion, sensation: intact\nStanding up at bed side (+); short times only\nPre-operation CBC: Hb g/dl (/), Hct %, WBC\nPost-operative CBC: Hb  m/dl, Hct  %, WBC  \nConjunctive and lip appearance: mild pink\nNo dizziness or vomiting"
       },
       {
-        "label": "Plan",
+        "label": "plan",
         "text": "Wound care\nPain control\nPost–operative IV form antibiotic use for 1 day (Cephalexin)\nLocal ice packing\nConsult 復健科for rehabilitation exercise\nKeep leg abduction and external rotation (prevent dislocation)\nFall down prevention\nRecheck CBC tomorrow"
       }
     ],
@@ -588,7 +574,7 @@
         "text": "Right/Left RCT massive with OA"
       },
       {
-        "label": "Plan",
+        "label": "pre_op_plan",
         "text": "1. Arrange operation (RTSA)\n2. Pre-operative survey\n3. Pain control\n4. Local ice packing\n5. Sling support"
       },
       {
@@ -600,7 +586,7 @@
         "text": "Pain: moderate, VAS 5-6"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nConjunctive appearance: mild pale\nLips appearance: mild pale\nVital sign: BT 3℃, HR /min, RR /min, BP /mmHg\nWound: mild bloody oozing, no obvious infection sign\nHemo-Vac drainage, ml/day with bloody discharge\nDistal circulation, motion, sensation: intact\nSwelling of left shoulder (+)\nROM of right/left shoulder: 0-90∘"
       },
       {
@@ -608,7 +594,7 @@
         "text": "Right/Left RCT massive with OA s/p Reverse total shoulder arthroplasty"
       },
       {
-        "label": "Plans",
+        "label": "plan",
         "text": "Wound care\nPain control\nLocal ice packing\nRehabilitation exercise\nSling use\nMonitor vital sign\nPatient education for high Fe+ diet intake"
       }
     ]
@@ -624,11 +610,11 @@
         "text": "114// (POD#1) \n#1:  fracture s/p ORIF, fracture union"
       },
       {
-        "label": "Objective",
+        "label": "objective",
         "text": "Consciousness status: clear and alert\nVital sign: BT ℃, HR /min, RR 1/min, BP 1/ mmHg \nWound: dry and clean\nDistal circulation, motor, sensation: O.K.\nSwelling: mild\n\n<Patella>\nStraight leg elevation (+)\nAmbulation (+)"
       },
       {
-        "label": "Plan2",
+        "label": "plan",
         "text": "Wound care\nPain control\nLocal ice packing\nRehabilitation exercise\nDischarge today and OPD follow up"
       },
       {
@@ -657,7 +643,6 @@
       }
     ],
     "髕骨 Patellar": {
-      "（按鈕）": [],
       "(按鈕)": [
         {
           "label": "髕骨 Patellar",
@@ -666,4 +651,19 @@
       ]
     }
   }
+,
+  "HV": [
+    {
+      "label": "Local findings",
+      "text": "<Local finding>\nRight/Left foot: \nTenderness (+), Swelling (-), \nLocal heat (-), Erythema (-)\nValgus deformity of left big toe (+)\nDistal circulation, motor, sensation: ok"
+    },
+    {
+      "label": "CC",
+      "text": "Right/Left foot big toe valgus deformity and pain for many years"
+    },
+    {
+      "label": "Present illness",
+      "text": "This is a -year-old female patient with underlying disease of \n # \nThis time, s/he suffered from left foot big toe valgus deformity and pain for many years. Progressive pain and tenderness was note in recent months. He visited our OPD for help. The radiographs were check and revealed left hallux valgus with 2nd claw toe.. After well explanation about the risk and benefits of operation, he was admission to our ward for left foot surgical intervention."
+    }
+  ]
 }
