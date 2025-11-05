@@ -1,0 +1,8 @@
+Flask
+Flask-SocketIO
+simple-websocket
+gunicorn
+gevent
+gevent-websocket
+pytesseract
+Pillow
